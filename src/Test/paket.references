@@ -12,10 +12,10 @@ Aardvark.Application.Slim.Vulkan
 Aardvark.SceneGraph
 Aardvark.SceneGraph.IO
 
-#if __Media__
 Aardvark.Service
 Aardvark.UI
 Aardvark.UI.Primitives
 Adaptify.MSBuild
 Aardium
-#endif
+
+Aardvark.Rendering.Text

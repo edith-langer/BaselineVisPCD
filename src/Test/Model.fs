@@ -1,4 +1,4 @@
-namespace __PROJECT_NAME__.Model
+namespace Test.Model
 
 open System
 open Aardvark.Base
@@ -16,4 +16,6 @@ type Model =
     {
         currentModel    : Primitive
         cameraState     : CameraControllerState
+        file : string
+        orbitState : OrbitState
     }
